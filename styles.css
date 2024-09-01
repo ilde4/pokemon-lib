@@ -99,7 +99,7 @@ button {
 }
 
 img {
-    height: 100%;
+    height: 190px;
 }
 
 .types {
@@ -130,15 +130,7 @@ td {
     border-radius: 30px;
 }
 
-.type1, .type2 {
-    padding: 5px;
+.type, .type {
+    padding: 10px;
     border-radius: 10px;
-}
-
-.grass {
-    background-color: green;
-}
-
-.poison {
-    background-color: purple;
 }
